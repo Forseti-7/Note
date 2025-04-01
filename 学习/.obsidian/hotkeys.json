@@ -1,0 +1,29 @@
+{
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "workspace:close": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "easy-typing-obsidian:easy-typing-toggle-comment": [],
+  "easy-typing-obsidian:easy-typing-goto-new-line-after-cur-line": [],
+  "editor:insert-callout": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ]
+}

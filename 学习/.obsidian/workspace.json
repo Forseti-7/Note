@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "494fecde745ee9d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c40b2809e4ee5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2757b0375c2c8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生殖系统/组织学和胚胎学/01组织-男性生殖系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01组织-男性生殖系统"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de86a4c093a4d3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf60fc03e9b78cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf86de571cd43e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "151cff907c895438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "乳腺癌",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "30cff6322195ab5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "0eb6cd63befb2c64",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "153fe0826db30906",
+    "type": "split",
+    "children": [
+      {
+        "id": "604f1ccaf15e35b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cf955b1e5355e8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "生殖系统/病理学/04-卵巢肿瘤.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "04-卵巢肿瘤 的反向链接列表"
+            }
+          },
+          {
+            "id": "168ab4b025ccc678",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "生殖系统/组织学和胚胎学/01组织-男性生殖系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "01组织-男性生殖系统 的出链列表"
+            }
+          },
+          {
+            "id": "7f473609e221c293",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b564ccb56732c6f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生殖系统/组织学和胚胎学/01组织-男性生殖系统.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01组织-男性生殖系统 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf86de571cd43e39",
+  "lastOpenFiles": [
+    "生殖系统/病理学/06-乳腺癌.md",
+    "生殖系统/病理学/05-前列腺疾病.md",
+    "生殖系统/病理学/04-卵巢肿瘤.md",
+    "生殖系统/病理学/03-妊娠滋养细胞疾病.md",
+    "生殖系统/病理学/02-子宫体疾病.md",
+    "生殖系统/病理学/01-子宫颈疾病.md",
+    "生殖系统/组织学和胚胎学/03胚胎-生殖系统发生.md",
+    "生殖系统/组织学和胚胎学/02组织-女性生殖系统.md",
+    "生殖系统/组织学和胚胎学/01组织-男性生殖系统.md",
+    "生殖系统/病理学/attachments/乳腺癌分型.png",
+    "生殖系统/病理学/attachments/CIN分级.png",
+    "生殖系统/病理学/attachments",
+    "生殖系统/组织学和胚胎学/attachments/外生殖器演变模式图.png",
+    "生殖系统/组织学和胚胎学/attachments/生殖管道演变图.png",
+    "生殖系统/组织学和胚胎学/attachments/睾丸下降示意图.png",
+    "呼吸系统/生理学/02肺通气.md",
+    "南京.md",
+    "呼吸系统/生理学/01概述.md",
+    "呼吸系统/生理学/03肺换气和组织换气.md",
+    "呼吸系统/生理学/05呼吸运动的调节.md",
+    "呼吸系统/生理学/04气体在血液中的运输.md",
+    "生殖系统/组织学和胚胎学/attachments/卵泡发育和子宫内膜周期性变化和激素的关系.png",
+    "呼吸系统/组织学和胚胎学/03胚胎发生.md",
+    "生殖系统/组织学和胚胎学/attachments/卵巢模式图.png",
+    "生殖系统/组织学和胚胎学/内分泌.md",
+    "生殖系统/组织学和胚胎学/attachments/精子形成.png",
+    "生殖系统/组织学和胚胎学/attachments",
+    "呼吸系统/组织学和胚胎学/01总论.md",
+    "呼吸系统/组织学和胚胎学/02呼吸系统的组织结构.md",
+    "呼吸系统/生理学/attachments/二氧化碳解离曲线.png",
+    "呼吸系统/生理学/attachments/影响氧解离曲线的因素.png",
+    "呼吸系统/生理学/attachments",
+    "泌尿系刺/病理学/肾小球肾炎.md",
+    "泌尿系刺/病理学/泌尿系统常见肿瘤.md",
+    "泌尿系刺/生理学/尿的排放.md",
+    "泌尿系刺/生理学/清除率.md",
+    "泌尿系刺/生理学/尿生成的调节.md",
+    "泌尿系刺/生理学/肾小球的滤过功能.md",
+    "泌尿系刺/生理学/attachments",
+    "泌尿系刺/病理学/attachments",
+    "血液系统/组织学/attachments",
+    "血液系统/药理学",
+    "血液系统/生理学",
+    "血液系统/病理学",
+    "血液系统/病理生理学"
+  ]
+}
